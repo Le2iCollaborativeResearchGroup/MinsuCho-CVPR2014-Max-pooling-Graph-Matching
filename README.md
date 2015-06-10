@@ -41,10 +41,8 @@ Find the following information about this article:
 
 ---------------------------
 
-1. 
-2. Add a smoothness constraint in the pose determination? 
-since the method is real time, assuming the head is detected in each consecutive frame, the pose should vary smoothly i.e. have a smooth transition between frames. If the video is observed, around the 1:05 mark, the normal vectors jumps. This is because the computation is for each frame, independently of the previous. 
-3. Observe when variance is high in the video of real time working of the system.
+1. Graph matching performances.
+2. Optimization framework of graph matching. 
 
 
  # Questions
